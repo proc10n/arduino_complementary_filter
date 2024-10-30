@@ -1,1 +1,1 @@
-# arduino_complimentary_filter
+# Arduino Complementary Filter
